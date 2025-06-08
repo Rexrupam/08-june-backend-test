@@ -1,12 +1,12 @@
 {
  "name": "@rexrupam/resume",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "type": "module",
-  "bin": {
-    "resume1":"src/index.js"
-  },
-  "author": "",
-  "license": "ISC"
+ "version": "1.0.4",
+ "description": "",
+ "main": "index.js",
+ "type": "module",
+ "bin": {
+  "rexrupam": "src/index.js"
+ },
+ "author": "",
+ "license": "ISC"
 }
