@@ -1,6 +1,6 @@
 {
  "name": "@rexrupam/resume",
- "version": "1.0.4",
+ "version": "1.0.9",
  "description": "",
  "main": "index.js",
  "type": "module",
@@ -8,5 +8,8 @@
   "rexrupam": "src/index.js"
  },
  "author": "",
- "license": "ISC"
+ "license": "ISC",
+ "dependencies": {
+  "@rexrupam/resume": "^1.0.9"
+ }
 }
